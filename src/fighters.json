@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Warrior of Light",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/a/a2/DFF2015_Warrior_of_Light_JP_Site.png/revision/latest/scale-to-width-down/564?cb=20151129120447",
+    "Occupation": "Warrior of Cosmos",
+    "location": "Order's Sanctuary"
+  },
+  {
+    "id": 2,
+    "name": "Garland",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/a/a6/DFF2015_Garland_JP_Site.png/revision/latest/scale-to-width-down/620?cb=20160425211917",
+    "Affiliation": "Knight",
+    "location": "Cornelia"
+  },
+  {
+    "id": 3,
+    "name": "Firion",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/2/22/DFF2015_Firion_JP_Site.png/revision/latest/scale-to-width-down/564?cb=20151129120522",
+    "occupation": "Warrior",
+    "location": "Salamand"
+  },
+  {
+    "id": 4,
+    "name": "Emperor Mateus",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/8/8c/DFF2015_The_Emperor_JP_Site.png/revision/latest/scale-to-width-down/550?cb=20170323095541",
+    "occupation": "Emperor",
+    "location": "Castle Palamecia"
+  },
+  {
+    "id": 5,
+    "name": "Onion Knight",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/9/96/DFF2015_Onion_Knight_JP_Site.png/revision/latest/scale-to-width-down/564?cb=20151129120628",
+    "occupation": "Knight",
+    "location": "Floating Continent"
+  },
+  {
+    "id": 6,
+    "name": "Cloud of Darkness",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/3/30/DFF2015_Cloud_of_Darkness_JP_Site.png/revision/latest/scale-to-width-down/616?cb=20171013091621",
+    "occupation": "Celestial Being",
+    "location": "Floating Continent"
+  },
+  {
+    "id": 7,
+    "name": "Cecil Harvey",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/5/56/DFF2015_Cecil_Harvey_JP_Site.png/revision/latest/scale-to-width-down/564?cb=20151129120722",
+    "occupation": "Paladin",
+    "location": "Baron"
+  },
+  {
+    "id": 8,
+    "name": "Kain",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/d/d4/DFF2015_Kain_JP_Site.png/revision/latest/scale-to-width-down/640?cb=20160728044354",
+    "occupation": "Holy Dragoon",
+    "location": "Baron"
+  },
+  {
+    "id": 9,
+    "name": "Ifrit",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/c/c8/DFF2015_Ifrit_JP_Site.png/revision/latest/scale-to-width-down/640?cb=20160629200640",
+    "occupation": "djinn",
+    "location": "Underworld"
+  },
+  {
+    "id": 10,
+    "name": "Shiva",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/9/97/DFF2015_Shiva_JP_Site.png/revision/latest/scale-to-width-down/633?cb=20160629200955",
+    "occupation": "Ice Queen",
+    "location": "Underworld"
+  },
+  {
+    "id": 11,
+    "name": "Ramuh",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/1/19/DFF2015_Ramuh_JP_Site.png/revision/latest/scale-to-width-down/640?cb=20160629200911",
+    "occupation": "Mage",
+    "location": "Underworld"
+  },
+  {
+    "id": 12,
+    "name": "Odin",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/f/fd/DFF2015_Odin_JP_Site.png/revision/latest/scale-to-width-down/640?cb=20160629200826",
+    "occupation": "Knight",
+    "location": "Underworld"
+  },
+  {
+    "id": 12,
+    "name": "Leviathan",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/1/12/DFF2015_Leviathan_JP_Site.png/revision/latest/scale-to-width-down/640?cb=20160629200726",
+    "occupation": "Sea Serpent",
+    "location": "Underworld"
+  },
+  {
+    "id": 12,
+    "name": "Alexander",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/0/08/DFF2015_Alexander_JP_Site.png/revision/latest/scale-to-width-down/640?cb=20160629200547",
+    "occupation": "Robot",
+    "location": "Underworld"
+  },
+  {
+    "id": 12,
+    "name": "Bahamut",
+    "image": "https://vignette.wikia.nocookie.net/finalfantasy/images/2/2a/DFF2015_Bahamut_JP_Site.png/revision/latest/scale-to-width-down/640?cb=20170809173726",
+    "occupation": "Dragon",
+    "location": "Underworld"
+  }
+]
