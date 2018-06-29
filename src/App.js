@@ -21,7 +21,7 @@ class App extends Component {
   }
   shuffleArray = array => {
     for (let i = array.length - 1; i > 0; i--) {
-      let j = Math.floor(Math.random() * (i + 1))
+      let j = Math.floor(Math.random() * (i + 1));
       [array[i], array[j]] = [array[j], array[i]];
     }
   }
@@ -51,6 +51,7 @@ class App extends Component {
   }
   this.shuffleArray(fighters)
   }
+  
 // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
