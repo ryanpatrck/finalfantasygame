@@ -21,10 +21,11 @@ class App extends Component {
   }
   shuffleArray = array => {
     for (let i = array.length - 1; i > 0; i--) {
-      let j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
+        let j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
     }
-  }
+}
+
 
   selectFighter = fighter => {
     const findFighter = this.state.unselectedFighters.find(item => item.fighter === fighter)
@@ -59,14 +60,14 @@ class App extends Component {
        <Nav
         message={this.state.message}
         curScore={this.state.curScore}
-        topScore={this.state.TopScore}
+        topScore={this.state.topScore}
         />
         <Title />
         {
-                    this.state.fighters.map(fighter => (
+                    this.state.fighters.map(player => (
                         <FighterCard
-                            name={fighter.name}
-                            image={fighter.image}
+                            fighter={player.fighter}
+                            image={player.image}
                             selectFighter={this.selectFighter} 
                             curScore={this.state.curScore}
                         />
